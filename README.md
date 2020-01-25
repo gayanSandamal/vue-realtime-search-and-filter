@@ -18,9 +18,7 @@ If you selected "Users" search type, there will be 4 filter to enable.
 ```
 
 ## Live example
-```
 <h3><a href="https://project3.nayague.online/" target="_blank">Vue real-time search and filter<a/></h3>
-```
 
 ## Project setup
 ```
