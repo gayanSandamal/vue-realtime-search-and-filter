@@ -67,7 +67,6 @@
 </template>
 
 <script>
-/*eslint-disable*/
 import organizations from "./../json/organizations.json";
 import tickets from "./../json/tickets.json";
 import users from "./../json/users.json";

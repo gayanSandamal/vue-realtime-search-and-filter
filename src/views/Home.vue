@@ -217,7 +217,6 @@ export default {
     },
     searchByUsers() {
       // get the matching values for the given input
-      /* eslint-disable */
       let filtered_users = this.users.filter(user => {
         // set empty keys to refrain from crashing match function
         if (!user.name) {
