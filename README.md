@@ -22,11 +22,6 @@ If you selected "Users" search type, there will be 4 filter to enable.
 npm install
 ```
 
-## Project setup
-```
-npm install
-```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
