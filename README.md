@@ -2,12 +2,9 @@
 
 ## Guide
 ```
-There are 3 search type at the moment
-```
+There are 3 search type at the moment,
 by "organizations", "users" and "tickets".
-```
-You can search by any column value related to the selected collection.
-```
+You can search by any column value related to the selected collection,
 example: "name", "url", "subject", "description", "tags", "via", etc...
 ```
 
