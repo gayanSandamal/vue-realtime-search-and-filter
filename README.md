@@ -17,9 +17,6 @@ also able to enable filter under particular serach type.
 If you selected "Users" search type, there will be 4 filter to enable.
 ```
 
-```
-
-
 ## Project setup
 ```
 npm install
