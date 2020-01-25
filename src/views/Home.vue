@@ -268,11 +268,12 @@ export default {
           // loop through matching values
             this.organizations.map(q => {
               if (p.organization_id === q._id) {
+                debugger
                 // declare to search result
                 search_result.push({
                   organization_name: q.name,
                   ticket_subject: p.subject,
-                  username: q.name
+                  username: o.name
                 })
               }
             })
